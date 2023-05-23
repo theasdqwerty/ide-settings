@@ -1,0 +1,24 @@
+<application>
+  <component name="XDebuggerSettings">
+    <data-views>
+      <option name="valueLookupDelay" value="150" />
+    </data-views>
+    <general />
+    <debuggers>
+      <debugger id="dotnet_debugger">
+        <configuration>
+          <option name="allowImplicitTargetInvoke" value="false" />
+          <option name="breakOnUserUnhandledExceptions" value="true" />
+          <option name="enableExternalSourceDebug" value="false" />
+          <option name="needNotifyWhenStoppedInExternalCode" value="false" />
+          <option name="showTypeVariables" value="false" />
+        </configuration>
+      </debugger>
+      <debugger id="javascript">
+        <configuration>
+          <custom-object-presentation />
+        </configuration>
+      </debugger>
+    </debuggers>
+  </component>
+</application>
