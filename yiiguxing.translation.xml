@@ -88,6 +88,16 @@
     <option name="newTranslationDialogX" value="458" />
     <option name="newTranslationDialogY" value="111" />
     <histories>
+      <item value="ссылочный" />
+      <item value="change " />
+      <item value="change l" />
+      <item value="change linking" />
+      <item value="change link" />
+      <item value="change linke" />
+      <item value="change linked" />
+      <item value="change referintial" />
+      <item value="change refe" />
+      <item value="изменениеСсылочного" />
       <item value="export" />
       <item value="ex" />
       <item value="import" />
@@ -128,23 +138,13 @@
       <item value="Записи" />
       <item value="Запси" />
       <item value="Records" />
-      <item value="contend" />
-      <item value="con" />
-      <item value="poetry" />
-      <item value="recording options" />
-      <item value="recor" />
-      <item value="Основные параметры запис" />
-      <item value="Основные параметры записи" />
-      <item value="Основ" />
-      <item value="Ос" />
-      <item value="параметры основной группы" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="102" />
+        <entry key="ENGLISH" value="104" />
         <entry key="FRENCH" value="1" />
         <entry key="HMONG" value="1" />
-        <entry key="RUSSIAN" value="140" />
+        <entry key="RUSSIAN" value="142" />
       </map>
     </option>
   </component>
