@@ -88,6 +88,7 @@
     <option name="newTranslationDialogX" value="458" />
     <option name="newTranslationDialogY" value="111" />
     <histories>
+      <item value="целевой документ" />
       <item value="ugly" />
       <item value="u" />
       <item value="ungly" />
@@ -137,7 +138,6 @@
       <item value="Уяа" />
       <item value="Цех" />
       <item value="Month" />
-      <item value="Mounth" />
     </histories>
     <option name="languageScores">
       <map>
