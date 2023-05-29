@@ -79,7 +79,7 @@
     <option name="translateDocumentation" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1684878030215" />
+    <option name="lastTrimTime" value="1685351186111" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
@@ -88,6 +88,9 @@
     <option name="newTranslationDialogX" value="458" />
     <option name="newTranslationDialogY" value="111" />
     <histories>
+      <item value="export" />
+      <item value="ex" />
+      <item value="import" />
       <item value="Заготовка" />
       <item value="billets" />
       <item value="Заготовки" />
@@ -107,7 +110,6 @@
       <item value="example" />
       <item value="exa" />
       <item value="excample" />
-      <item value="ex" />
       <item value="Users Fields" />
       <item value="подразделение" />
       <item value="под" />
@@ -136,15 +138,13 @@
       <item value="Основ" />
       <item value="Ос" />
       <item value="параметры основной группы" />
-      <item value="параметры основной гру" />
-      <item value="о" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="101" />
+        <entry key="ENGLISH" value="102" />
         <entry key="FRENCH" value="1" />
         <entry key="HMONG" value="1" />
-        <entry key="RUSSIAN" value="138" />
+        <entry key="RUSSIAN" value="140" />
       </map>
     </option>
   </component>
