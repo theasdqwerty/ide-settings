@@ -1,0 +1,13 @@
+<keymap version="1" name="asdqkeymap" parent="ReSharper">
+  <action id="CheckinProject" />
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="InsertLiveTemplate" />
+  <action id="RiderCoveringTestsPopupCoverAllTestsAction" />
+</keymap>

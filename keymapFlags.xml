@@ -1,0 +1,33 @@
+<application>
+  <component name="KeymapFlagsStorage">
+    <option name="keymapToDescriptor">
+      <map>
+        <entry key="ASDReSharper ">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="IntelliJ copy">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="IntelliJ copy 1">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="ReSharper copy">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="asdqkeymap">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
