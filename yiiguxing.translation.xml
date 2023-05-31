@@ -84,10 +84,27 @@
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="411" />
-    <option name="newTranslationDialogWidth" value="1175" />
+    <option name="newTranslationDialogWidth" value="1173" />
     <option name="newTranslationDialogX" value="458" />
     <option name="newTranslationDialogY" value="111" />
     <histories>
+      <item value="как я составляю эту строку имея четыре части" />
+      <item value="как я составляю эту строку имея че" />
+      <item value="как я составляю эту строку имея " />
+      <item value="как я составляю эту строку име" />
+      <item value="как я составляю эту строку " />
+      <item value="как я составляю эту строку" />
+      <item value="how i'am compose this string " />
+      <item value="how i'am compose this string bvtz " />
+      <item value="how i'am compose this " />
+      <item value="how i'am compose " />
+      <item value="how " />
+      <item value="ho" />
+      <item value="how" />
+      <item value="can i'am compose this string" />
+      <item value="can i'am compose this " />
+      <item value="can i'am compose " />
+      <item value="can i" />
       <item value="tainted" />
       <item value="tain" />
       <item value="tained" />
@@ -121,30 +138,13 @@
       <item value="Confi" />
       <item value="the heresy" />
       <item value="ошибка" />
-      <item value="Была ошибка" />
-      <item value="the tide" />
-      <item value="Quality Fields" />
-      <item value="example" />
-      <item value="exa" />
-      <item value="excample" />
-      <item value="Users Fields" />
-      <item value="подразделение" />
-      <item value="под" />
-      <item value="подр" />
-      <item value="Delivery Of Product By Stage" />
-      <item value="Is Empty" />
-      <item value="Производственный цех" />
-      <item value="Производственный " />
-      <item value="Производственный участок" />
-      <item value="Произ" />
-      <item value="Участок" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="105" />
+        <entry key="ENGLISH" value="106" />
         <entry key="FRENCH" value="1" />
         <entry key="HMONG" value="1" />
-        <entry key="RUSSIAN" value="144" />
+        <entry key="RUSSIAN" value="147" />
       </map>
     </option>
   </component>
