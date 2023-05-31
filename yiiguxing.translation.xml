@@ -88,6 +88,9 @@
     <option name="newTranslationDialogX" value="458" />
     <option name="newTranslationDialogY" value="111" />
     <histories>
+      <item value="tainted" />
+      <item value="tain" />
+      <item value="tained" />
       <item value="целевой документ" />
       <item value="ugly" />
       <item value="u" />
@@ -135,16 +138,13 @@
       <item value="Производственный участок" />
       <item value="Произ" />
       <item value="Участок" />
-      <item value="Уяа" />
-      <item value="Цех" />
-      <item value="Month" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="105" />
         <entry key="FRENCH" value="1" />
         <entry key="HMONG" value="1" />
-        <entry key="RUSSIAN" value="143" />
+        <entry key="RUSSIAN" value="144" />
       </map>
     </option>
   </component>
