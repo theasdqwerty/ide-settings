@@ -88,6 +88,10 @@
     <option name="newTranslationDialogX" value="458" />
     <option name="newTranslationDialogY" value="111" />
     <histories>
+      <item value="overwrite remote" />
+      <item value="overwrite remoyte" />
+      <item value="over" />
+      <item value="o" />
       <item value="before" />
       <item value="как я составляю эту строку имея четыре части" />
       <item value="как я составляю эту строку имея че" />
@@ -134,17 +138,13 @@
       <item value="ide settings" />
       <item value="share ide settings" />
       <item value="Starting from version 2022.3, the Settings Repository plugin is not bundled with IntelliJ IDEA. It is still available for installation in JetBrains Marketplace. For information on how to set up Settings Repository, refer to version 2022.2 of IntelliJ IDEA documentation." />
-      <item value="Configuration" />
-      <item value="Configu" />
-      <item value="Confi" />
-      <item value="the heresy" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="106" />
         <entry key="FRENCH" value="1" />
         <entry key="HMONG" value="1" />
-        <entry key="RUSSIAN" value="148" />
+        <entry key="RUSSIAN" value="149" />
       </map>
     </option>
   </component>
