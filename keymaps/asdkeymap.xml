@@ -1,0 +1,7 @@
+<keymap version="1" name="asdkeymap" parent="ReSharper">
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="InsertLiveTemplate" />
+</keymap>
