@@ -88,6 +88,9 @@
     <option name="newTranslationDialogX" value="458" />
     <option name="newTranslationDialogY" value="111" />
     <histories>
+      <item value="номер заказа" />
+      <item value="заказы" />
+      <item value="заказа" />
       <item value="export" />
       <item value="ex" />
       <item value="import" />
@@ -135,16 +138,13 @@
       <item value="recor" />
       <item value="Основные параметры запис" />
       <item value="Основные параметры записи" />
-      <item value="Основ" />
-      <item value="Ос" />
-      <item value="параметры основной группы" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="102" />
+        <entry key="ENGLISH" value="103" />
         <entry key="FRENCH" value="1" />
         <entry key="HMONG" value="1" />
-        <entry key="RUSSIAN" value="140" />
+        <entry key="RUSSIAN" value="141" />
       </map>
     </option>
   </component>
