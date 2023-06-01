@@ -88,6 +88,9 @@
     <option name="newTranslationDialogX" value="458" />
     <option name="newTranslationDialogY" value="111" />
     <histories>
+      <item value="код товара" />
+      <item value="заказ" />
+      <item value="заказчики" />
       <item value="номер заказа" />
       <item value="заказы" />
       <item value="заказа" />
@@ -135,16 +138,13 @@
       <item value="con" />
       <item value="poetry" />
       <item value="recording options" />
-      <item value="recor" />
-      <item value="Основные параметры запис" />
-      <item value="Основные параметры записи" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="103" />
+        <entry key="ENGLISH" value="105" />
         <entry key="FRENCH" value="1" />
         <entry key="HMONG" value="1" />
-        <entry key="RUSSIAN" value="141" />
+        <entry key="RUSSIAN" value="143" />
       </map>
     </option>
   </component>
