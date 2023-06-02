@@ -88,6 +88,7 @@
     <option name="newTranslationDialogX" value="458" />
     <option name="newTranslationDialogY" value="111" />
     <histories>
+      <item value="Unit" />
       <item value="масса материала" />
       <item value="before" />
       <item value="как я составляю эту строку имея четыре части" />
@@ -137,11 +138,10 @@
       <item value="Starting from version 2022.3, the Settings Repository plugin is not bundled with IntelliJ IDEA. It is still available for installation in JetBrains Marketplace. For information on how to set up Settings Repository, refer to version 2022.2 of IntelliJ IDEA documentation." />
       <item value="Configuration" />
       <item value="Configu" />
-      <item value="Confi" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="106" />
+        <entry key="ENGLISH" value="107" />
         <entry key="FRENCH" value="1" />
         <entry key="HMONG" value="1" />
         <entry key="RUSSIAN" value="148" />
