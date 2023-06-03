@@ -4,12 +4,13 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Insert Data" />
       <item value="quantity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1" />
-        <entry key="RUSSIAN" value="1" />
+        <entry key="ENGLISH" value="2" />
+        <entry key="RUSSIAN" value="2" />
       </map>
     </option>
   </component>
