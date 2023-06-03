@@ -3,14 +3,19 @@
     <option name="lastTrimTime" value="1685782787452" />
   </component>
   <component name="Translation.States">
+    <option name="newTranslationDialogHeight" value="355" />
+    <option name="newTranslationDialogWidth" value="1085" />
+    <option name="newTranslationDialogX" value="587" />
+    <option name="newTranslationDialogY" value="606" />
     <histories>
+      <item value="Executes a SQL statement against the connection and returns the number of rows affected. Returns: The number of rows affected if known; -1 otherwise." />
       <item value="Insert Data" />
       <item value="quantity" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="2" />
-        <entry key="RUSSIAN" value="2" />
+        <entry key="RUSSIAN" value="3" />
       </map>
     </option>
   </component>
