@@ -1,150 +1,33 @@
 <application>
-  <component name="AppStorage">
-    <option name="newTranslationDialogHeight" value="296" />
-    <option name="newTranslationDialogWidth" value="1048" />
-    <option name="newTranslationDialogX" value="1111" />
-    <option name="newTranslationDialogY" value="86" />
-    <histories>
-      <item value="you have a perpetual license for the new version" />
-      <item value="you have a perpetual license for " />
-      <item value="you have a perpetual licen" />
-      <item value="you have a perpetual " />
-      <item value="you have a perpe" />
-      <item value="you have a per" />
-      <item value="you have " />
-      <item value="you " />
-      <item value="you" />
-      <item value="Некорректный" />
-      <item value="Некорректный ф" />
-      <item value="departament" />
-      <item value="departamentReference =" />
-      <item value="Removing this property may lead to editor performance degradation under Windows." />
-      <item value="before" />
-      <item value="befo" />
-      <item value="xmap creates a mapping for just Visual mode whereas vmap creates one for both Visual mode and Select mode." />
-      <item value="I had the same problem with slowness in IntelliJ 13 after upgrading from 12. What worked for me was editing the idea64.vmoptions in the bin folder and setting the max heap to 8 GB (was 512 MB) and the Max PermGen to at least 1GB (was 300MB).Example below:" />
-      <item value="следущий экран" />
-      <item value="сле" />
-      <item value="слещу" />
-      <item value="слещ" />
-      <item value="substitute" />
-      <item value="substi" />
-      <item value="until char" />
-      <item value="until chart" />
-      <item value="Set Define" />
-      <item value="FindAll() is a function on the List&lt;T&gt; type, it's not a LINQ extension method like Where. The LINQ extension methods work on any type that implements IEnumerable, whereas FindAll can only be used on List&lt;T&gt; instances (or instances of classes that inherit from it, of course).&#10;&#10;Additionally, they differ in actual purpose. Where returns an instance of IEnumerable that is executed on-demand when the object is enumerated. FindAll returns a new List&lt;T&gt; that contains the requested elements. FindAll is more like calling Where(...).ToList() on an instance of IEnumerable." />
-      <item value="On .NET Core, the AppDomain implementation is limited by design and does not provide isolation, unloading, or security boundaries. For .NET Core, there is exactly one AppDomain. Isolation and unloading are provided through AssemblyLoadContext. Security boundaries should be provided by process boundaries and appropriate remoting techniques." />
-      <item value="Month" />
-      <item value="масштаб" />
-      <item value="ма" />
-      <item value="маштаб" />
-      <item value="маш" />
-      <item value="Месяц" />
-      <item value="Departament Number" />
-      <item value="Качество выпускаемой продукции" />
-      <item value="Каче" />
-      <item value="отчет о выпускаемой продукции" />
-      <item value="отчет о выпускаемой продукци" />
-      <item value="отчет о выпускаемой проду" />
-      <item value="отчет о выпускаемой прода" />
-      <item value="отчет о выпуска" />
-      <item value="отчет " />
-      <item value="Информация по доработкам " />
-      <item value="Информация по доработкам (по исправимому браку)" />
-      <item value="Информация по доработкам (по исправимому браку)&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#10;" />
-      <item value="Информация по доработкам &#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#10;" />
-      <item value="Замечания по продукции&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#10;" />
-      <item value="Замечания по продукции, прошедшей входной контроль&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#10;" />
-    </histories>
-    <option name="languageScores">
-      <map>
-        <entry key="ENGLISH" value="414" />
-        <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="423" />
-        <entry key="CATALAN" value="3" />
-        <entry key="LATVIAN" value="1" />
-        <entry key="ROMANIAN" value="1" />
-        <entry key="MACEDONIAN" value="1" />
-        <entry key="HMONG" value="1" />
-        <entry key="SERBIAN" value="2" />
-        <entry key="SCOTS_GAELIC" value="1" />
-        <entry key="ITALIAN" value="1" />
-      </map>
-    </option>
-  </component>
-  <component name="Cache">
-    <option name="lastTrimTime" value="1670219711916" />
-  </component>
-  <component name="Settings">
-    <option name="translateDocumentation" value="true" />
-  </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1685351186111" />
+    <option name="lastTrimTime" value="1685954245577" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="411" />
-    <option name="newTranslationDialogWidth" value="1173" />
-    <option name="newTranslationDialogX" value="458" />
-    <option name="newTranslationDialogY" value="111" />
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="794" />
+    <option name="newTranslationDialogY" value="451" />
     <histories>
-      <item value="Unit" />
-      <item value="масса материала" />
-      <item value="before" />
-      <item value="как я составляю эту строку имея четыре части" />
-      <item value="как я составляю эту строку имея че" />
-      <item value="как я составляю эту строку имея " />
-      <item value="как я составляю эту строку име" />
-      <item value="как я составляю эту строку " />
-      <item value="как я составляю эту строку" />
-      <item value="how i'am compose this string " />
-      <item value="how i'am compose this string bvtz " />
-      <item value="how i'am compose this " />
-      <item value="how i'am compose " />
-      <item value="how " />
-      <item value="ho" />
-      <item value="how" />
-      <item value="can i'am compose this string" />
-      <item value="can i'am compose this " />
-      <item value="can i'am compose " />
-      <item value="can i" />
-      <item value="tainted" />
-      <item value="tain" />
-      <item value="tained" />
-      <item value="целевой документ" />
-      <item value="ugly" />
-      <item value="u" />
-      <item value="ungly" />
-      <item value="ссылочный" />
-      <item value="change " />
-      <item value="change l" />
-      <item value="change linking" />
-      <item value="change link" />
-      <item value="change linke" />
-      <item value="change linked" />
-      <item value="change referintial" />
-      <item value="change refe" />
-      <item value="изменениеСсылочного" />
-      <item value="export" />
-      <item value="ex" />
-      <item value="import" />
-      <item value="Заготовка" />
-      <item value="billets" />
-      <item value="Заготовки" />
-      <item value="За" />
-      <item value="Please try to &quot;Initialize this repository with a README&quot; on repo creation as workaround." />
-      <item value="ide settings" />
-      <item value="share ide settings" />
-      <item value="Starting from version 2022.3, the Settings Repository plugin is not bundled with IntelliJ IDEA. It is still available for installation in JetBrains Marketplace. For information on how to set up Settings Repository, refer to version 2022.2 of IntelliJ IDEA documentation." />
-      <item value="Configuration" />
-      <item value="Configu" />
+      <item value="у меня есть яблоко" />
+      <item value="я есть яблоко" />
+      <item value="я есть я" />
+      <item value="я есть я блоко" />
+      <item value="я е" />
+      <item value="я ечс" />
+      <item value="z " />
+      <item value="I have an apple" />
+      <item value="i am have an apple" />
+      <item value="i am have an ap" />
+      <item value="i am have " />
+      <item value="i am " />
+      <item value="i'am have an apple" />
+      <item value="i'am have apple" />
+      <item value="i'am " />
+      <item value="i" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="107" />
-        <entry key="FRENCH" value="1" />
-        <entry key="HMONG" value="1" />
-        <entry key="RUSSIAN" value="148" />
+        <entry key="ENGLISH" value="4" />
+        <entry key="RUSSIAN" value="5" />
       </map>
     </option>
   </component>
