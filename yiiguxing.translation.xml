@@ -3,10 +3,14 @@
     <option name="lastTrimTime" value="1685954245577" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogWidth" value="596" />
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Изменения" />
+      <item value="Из" />
+      <item value="Modifications" />
       <item value="у меня есть яблоко" />
       <item value="я есть яблоко" />
       <item value="я есть я" />
@@ -26,7 +30,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="4" />
+        <entry key="ENGLISH" value="5" />
         <entry key="RUSSIAN" value="5" />
       </map>
     </option>
