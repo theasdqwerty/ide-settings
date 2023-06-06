@@ -8,6 +8,7 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="lockdown" />
       <item value="Изменения" />
       <item value="Из" />
       <item value="Modifications" />
@@ -31,7 +32,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="5" />
-        <entry key="RUSSIAN" value="5" />
+        <entry key="RUSSIAN" value="6" />
       </map>
     </option>
   </component>
