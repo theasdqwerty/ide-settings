@@ -4,10 +4,13 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="инфраструктура" />
+      <item value="инф" />
+      <item value="Add Scoped" />
       <item value="lockdown" />
       <item value="Изменения" />
       <item value="Из" />
@@ -31,7 +34,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="5" />
+        <entry key="ENGLISH" value="6" />
         <entry key="RUSSIAN" value="6" />
       </map>
     </option>
