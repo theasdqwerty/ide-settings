@@ -8,6 +8,9 @@
     <option name="newTranslationDialogX" value="587" />
     <option name="newTranslationDialogY" value="606" />
     <histories>
+      <item value="Random customer" />
+      <item value="Create new random customer." />
+      <item value="The EF Core in-memory database is not designed for performance or robustness and should not be used outside of testing environments. It is not designed for production use." />
       <item value="No database provider has been configured for this DbContext. A provider can be configured by overriding the 'DbContext.OnConfiguring' method or by using 'AddDbContext' on the application service provider. If 'AddDbContext' is used, then also ensure that your DbContext type accepts a DbContextOptions&lt;TContext&gt; object in its constructor and passes it to the base constructor for DbContext." />
       <item value="Executes a SQL statement against the connection and returns the number of rows affected. Returns: The number of rows affected if known; -1 otherwise." />
       <item value="Insert Data" />
@@ -15,8 +18,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="3" />
-        <entry key="RUSSIAN" value="3" />
+        <entry key="ENGLISH" value="5" />
+        <entry key="RUSSIAN" value="5" />
       </map>
     </option>
   </component>
