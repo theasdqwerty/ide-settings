@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1685782787452" />
+    <option name="lastTrimTime" value="1686249133205" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="355" />
@@ -8,13 +8,14 @@
     <option name="newTranslationDialogX" value="587" />
     <option name="newTranslationDialogY" value="606" />
     <histories>
+      <item value="No database provider has been configured for this DbContext. A provider can be configured by overriding the 'DbContext.OnConfiguring' method or by using 'AddDbContext' on the application service provider. If 'AddDbContext' is used, then also ensure that your DbContext type accepts a DbContextOptions&lt;TContext&gt; object in its constructor and passes it to the base constructor for DbContext." />
       <item value="Executes a SQL statement against the connection and returns the number of rows affected. Returns: The number of rows affected if known; -1 otherwise." />
       <item value="Insert Data" />
       <item value="quantity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="2" />
+        <entry key="ENGLISH" value="3" />
         <entry key="RUSSIAN" value="3" />
       </map>
     </option>
