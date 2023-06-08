@@ -8,6 +8,16 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="раздел" />
+      <item value="hfp" />
+      <item value="раздел спецификации" />
+      <item value="Compare Kit" />
+      <item value="Сравнить комплект" />
+      <item value="Сравнить компл" />
+      <item value="Ком" />
+      <item value="Комплекты" />
+      <item value="Комплект" />
+      <item value="КЕ" />
       <item value="добавил генератор пользователя" />
       <item value="добавил " />
       <item value="инфраструктура" />
@@ -36,8 +46,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="6" />
-        <entry key="RUSSIAN" value="6" />
+        <entry key="ENGLISH" value="8" />
+        <entry key="RUSSIAN" value="8" />
       </map>
     </option>
   </component>
