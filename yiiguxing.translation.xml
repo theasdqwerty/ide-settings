@@ -4,6 +4,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="промежуто" />
+      <item value="промеж" />
       <item value="workflow" />
       <item value="work" />
       <item value="Contracts" />
