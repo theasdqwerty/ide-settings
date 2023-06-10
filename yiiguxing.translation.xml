@@ -4,6 +4,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="получен с сервера" />
+      <item value="полу" />
       <item value="Создание или обнолвение заказов" />
       <item value="Создание или обнолвение заказ" />
       <item value="Созд" />
