@@ -1,4 +1,4 @@
-<keymap version="1" name="ReSharper copy" parent="ReSharper">
+<keymap version="1" name="asdq" parent="ReSharper">
   <action id="CheckinProject" />
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
