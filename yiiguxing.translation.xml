@@ -4,26 +4,6 @@
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="поставщик" />
-      <item value="предварительная проверка" />
-      <item value="предваритель" />
-      <item value="пред" />
-      <item value="j" />
-      <item value="промежуто" />
-      <item value="промеж" />
-      <item value="workflow" />
-      <item value="work" />
-      <item value="Contracts" />
-      <item value="Contract" />
-      <item value="Contra" />
-      <item value="Contran" />
-      <item value="Con" />
-      <item value="Customer" />
-      <item value="тестовое сохранение" />
-      <item value="цщкл" />
-      <item value="тестовое с" />
-      <item value="тестовое со" />
-      <item value="те" />
       <item value="Создание или обнолвение заказов" />
       <item value="Создание или обнолвение заказ" />
       <item value="Созд" />
@@ -43,11 +23,5 @@
       <item value="создание служеюной " />
       <item value="соза" />
     </histories>
-    <option name="languageScores">
-      <map>
-        <entry key="ENGLISH" value="5" />
-        <entry key="RUSSIAN" value="7" />
-      </map>
-    </option>
   </component>
 </application>
