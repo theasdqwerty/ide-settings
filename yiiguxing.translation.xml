@@ -1,9 +1,10 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1686289841971" />
+    <option name="lastTrimTime" value="1689676731761" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Time Dessesialization On String" />
       <item value="получен с сервера" />
       <item value="полу" />
       <item value="Создание или обнолвение заказов" />
@@ -25,5 +26,11 @@
       <item value="создание служеюной " />
       <item value="соза" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+        <entry key="RUSSIAN" value="1" />
+      </map>
+    </option>
   </component>
 </application>
