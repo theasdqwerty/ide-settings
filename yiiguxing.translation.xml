@@ -8,6 +8,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="606" />
     <histories>
+      <item value="File Watcher" />
       <item value="дорогой&#9; продукт" />
       <item value="д" />
       <item value="самый дор" />
@@ -46,8 +47,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="6" />
-        <entry key="RUSSIAN" value="6" />
+        <entry key="ENGLISH" value="7" />
+        <entry key="RUSSIAN" value="7" />
       </map>
     </option>
   </component>
