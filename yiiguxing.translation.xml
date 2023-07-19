@@ -4,10 +4,19 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="369" />
-    <option name="newTranslationDialogWidth" value="910" />
+    <option name="newTranslationDialogWidth" value="906" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="606" />
     <histories>
+      <item value="инфраструктура" />
+      <item value="infrastructure" />
+      <item value="infrac" />
+      <item value="Cancellation Token Source" />
+      <item value="Operation was cancelled." />
+      <item value="отмена поиска" />
+      <item value="отмена опо" />
+      <item value="file found" />
+      <item value="file fo" />
       <item value="отменить операцию да для отмены нет для продолжения" />
       <item value="отменить операцию да для отмены " />
       <item value="отменить операцию да для " />
@@ -49,16 +58,11 @@
       <item value="создание или обновление " />
       <item value="создание или об" />
       <item value="создание или" />
-      <item value="создание " />
-      <item value="создание служебной записк" />
-      <item value="создание служебной записки" />
-      <item value="создание служеюной " />
-      <item value="соза" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="8" />
-        <entry key="RUSSIAN" value="9" />
+        <entry key="ENGLISH" value="12" />
+        <entry key="RUSSIAN" value="13" />
       </map>
     </option>
   </component>
