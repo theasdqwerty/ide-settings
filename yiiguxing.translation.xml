@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1689676731761" />
+    <option name="lastTrimTime" value="1690209807226" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="369" />
@@ -8,6 +8,8 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="606" />
     <histories>
+      <item value="econnrefused" />
+      <item value="econ" />
       <item value="инфраструктура" />
       <item value="infrastructure" />
       <item value="infrac" />
@@ -56,13 +58,11 @@
       <item value="Служе" />
       <item value="создание или обновление гпп " />
       <item value="создание или обновление " />
-      <item value="создание или об" />
-      <item value="создание или" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="12" />
-        <entry key="RUSSIAN" value="13" />
+        <entry key="RUSSIAN" value="14" />
       </map>
     </option>
   </component>
