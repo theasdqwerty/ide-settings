@@ -8,6 +8,8 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="606" />
     <histories>
+      <item value="calendar" />
+      <item value="caled" />
       <item value="notfound" />
       <item value="not" />
       <item value="тще" />
@@ -56,13 +58,11 @@
       <item value="отменить операцию да для " />
       <item value="отменить операцию да " />
       <item value="отменить операцию " />
-      <item value="отменить оп" />
-      <item value="для о" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="18" />
-        <entry key="RUSSIAN" value="26" />
+        <entry key="RUSSIAN" value="27" />
       </map>
     </option>
   </component>
