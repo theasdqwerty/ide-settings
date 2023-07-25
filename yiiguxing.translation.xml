@@ -8,6 +8,13 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="606" />
     <histories>
+      <item value="notfound" />
+      <item value="not" />
+      <item value="тще" />
+      <item value="технические работ" />
+      <item value="технические работы" />
+      <item value="техн" />
+      <item value="тех" />
       <item value="Еще не зарегистрировались?" />
       <item value="Еще не за" />
       <item value="Еще " />
@@ -51,18 +58,11 @@
       <item value="отменить операцию " />
       <item value="отменить оп" />
       <item value="для о" />
-      <item value="отменить операцию" />
-      <item value="асинхронной" />
-      <item value="To use free compute minutes on shared runners, you'll need to validate your account with a credit card. This is required to discourage and reduce abuse on GitLab infrastructure. GitLab will not charge your card, it will only be used for validation." />
-      <item value="File Watcher" />
-      <item value="дорогой&#9; продукт" />
-      <item value="д" />
-      <item value="самый дор" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="17" />
-        <entry key="RUSSIAN" value="24" />
+        <entry key="ENGLISH" value="18" />
+        <entry key="RUSSIAN" value="26" />
       </map>
     </option>
   </component>
