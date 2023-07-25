@@ -4,10 +4,35 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="369" />
-    <option name="newTranslationDialogWidth" value="906" />
+    <option name="newTranslationDialogWidth" value="890" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="606" />
     <histories>
+      <item value="Еще не зарегистрировались?" />
+      <item value="Еще не за" />
+      <item value="Еще " />
+      <item value="Забыли пароль?" />
+      <item value="Забыли пароль" />
+      <item value="Заб" />
+      <item value="З" />
+      <item value="Log in" />
+      <item value="Login" />
+      <item value="войти" />
+      <item value="ente" />
+      <item value="enter" />
+      <item value="Дщпшт" />
+      <item value="вой" />
+      <item value="dj" />
+      <item value="garden calendar" />
+      <item value="garden calendary" />
+      <item value="garden calenda" />
+      <item value="garden" />
+      <item value="log in" />
+      <item value="sign u" />
+      <item value="sign up" />
+      <item value="sig" />
+      <item value="registration" />
+      <item value="regis" />
       <item value="econnrefused" />
       <item value="econ" />
       <item value="инфраструктура" />
@@ -33,36 +58,11 @@
       <item value="дорогой&#9; продукт" />
       <item value="д" />
       <item value="самый дор" />
-      <item value="самый дорогой" />
-      <item value="Дата производства" />
-      <item value="Дата прои" />
-      <item value="Extensions" />
-      <item value="File Stream" />
-      <item value="произошла ошибка в процессе чтения" />
-      <item value="произовш" />
-      <item value="прои" />
-      <item value="File can't read." />
-      <item value="File can read." />
-      <item value="File" />
-      <item value="Time Dessesialization On String" />
-      <item value="получен с сервера" />
-      <item value="полу" />
-      <item value="Создание или обнолвение заказов" />
-      <item value="Создание или обнолвение заказ" />
-      <item value="Созд" />
-      <item value="Служебная " />
-      <item value="Служебная записк" />
-      <item value="Служебная записка" />
-      <item value="Служебная за" />
-      <item value="Служебн" />
-      <item value="Служе" />
-      <item value="создание или обновление гпп " />
-      <item value="создание или обновление " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="12" />
-        <entry key="RUSSIAN" value="14" />
+        <entry key="ENGLISH" value="17" />
+        <entry key="RUSSIAN" value="24" />
       </map>
     </option>
   </component>
