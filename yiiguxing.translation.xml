@@ -8,11 +8,11 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="606" />
     <histories>
+      <item value="plant" />
       <item value="Soil Moisture Min" />
       <item value="plant " />
       <item value="Сервис растения" />
       <item value="Се" />
-      <item value="plant" />
       <item value="stead " />
       <item value="stead" />
       <item value="stead model" />
@@ -62,7 +62,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="20" />
-        <entry key="RUSSIAN" value="31" />
+        <entry key="RUSSIAN" value="32" />
       </map>
     </option>
   </component>
