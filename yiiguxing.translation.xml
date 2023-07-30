@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1690209807226" />
+    <option name="lastTrimTime" value="1690737854246" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="369" />
@@ -8,6 +8,12 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="606" />
     <histories>
+      <item value="Сервис растения" />
+      <item value="Се" />
+      <item value="plant" />
+      <item value="stead " />
+      <item value="stead" />
+      <item value="stead model" />
       <item value="calendar" />
       <item value="caled" />
       <item value="notfound" />
@@ -52,17 +58,11 @@
       <item value="отмена поиска" />
       <item value="отмена опо" />
       <item value="file found" />
-      <item value="file fo" />
-      <item value="отменить операцию да для отмены нет для продолжения" />
-      <item value="отменить операцию да для отмены " />
-      <item value="отменить операцию да для " />
-      <item value="отменить операцию да " />
-      <item value="отменить операцию " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="18" />
-        <entry key="RUSSIAN" value="27" />
+        <entry key="ENGLISH" value="19" />
+        <entry key="RUSSIAN" value="30" />
       </map>
     </option>
   </component>
