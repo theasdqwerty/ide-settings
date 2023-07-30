@@ -8,6 +8,8 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="606" />
     <histories>
+      <item value="Soil Moisture Min" />
+      <item value="plant " />
       <item value="Сервис растения" />
       <item value="Се" />
       <item value="plant" />
@@ -56,13 +58,11 @@
       <item value="Cancellation Token Source" />
       <item value="Operation was cancelled." />
       <item value="отмена поиска" />
-      <item value="отмена опо" />
-      <item value="file found" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="19" />
-        <entry key="RUSSIAN" value="30" />
+        <entry key="ENGLISH" value="20" />
+        <entry key="RUSSIAN" value="31" />
       </map>
     </option>
   </component>
