@@ -8,6 +8,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="606" />
     <histories>
+      <item value="Entity Base" />
       <item value="R Reestr Object" />
       <item value="Precipitation" />
       <item value="R Precipitation" />
@@ -57,11 +58,10 @@
       <item value="econ" />
       <item value="инфраструктура" />
       <item value="infrastructure" />
-      <item value="infrac" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="22" />
+        <entry key="ENGLISH" value="23" />
         <entry key="RUSSIAN" value="33" />
       </map>
     </option>
