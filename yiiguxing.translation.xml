@@ -8,6 +8,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="606" />
     <histories>
+      <item value="Last Name" />
       <item value="youremail" />
       <item value="Entity Base" />
       <item value="Base Entity" />
@@ -57,11 +58,10 @@
       <item value="sig" />
       <item value="registration" />
       <item value="regis" />
-      <item value="econnrefused" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="27" />
+        <entry key="ENGLISH" value="28" />
         <entry key="RUSSIAN" value="33" />
       </map>
     </option>
